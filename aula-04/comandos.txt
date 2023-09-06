@@ -1,0 +1,10 @@
+history: pra relembrar como usei os comandos na última aula
+ls: listar os arquivos em um diretório
+cd: pra se movimentar entre os diretórios
+cat: extrair toda a informação de um arquivo de texto
+head: achar uma linha específica e extrair uma quantia exata de linhas de um arquivo de texto
+tail: não usei, mas usaria pro mesmo motivo que o head
+grep: procurar informações específicas em um arquivo de texto
+
+Jeremy Bowers
+
