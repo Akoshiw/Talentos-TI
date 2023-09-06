@@ -1,0 +1,147 @@
+  444  cat pokemons.txt
+  445  echo "Hello world!"
+  446  whoiam
+  447  whoami
+  448  clear
+  449  pwd
+  450  ls
+  451  ls -ash
+  452  clear
+  453  cd
+  454  mkdir
+  455  mkdir pasta
+  456  touch arquivo
+  457  ls
+  458  cs pasta
+  459  cd pasta
+  460  touch arquivo
+  461  ls
+  462  mkdir pasta2
+  463  ls
+  464  mv arquivo pasta2
+  465  ls
+  466  cd pasta2
+  467  ls
+  468  cp pasta2/arquivo ./
+  469  cp pasta2/arquivo ./
+  470  cd pasta
+  471  cd pasta
+  472  cd
+  473  cd pasta
+  474  cp pasta2/arquivo ./
+  475  ls
+  476  color
+  477  git status
+  478  cat pokemons.txt
+  479  head -n 20 pokemons.txt
+  480  tale -n 10 pokemons.txt
+  481  tail -n 10 pokemons.txt
+  482  grep dragalge ./pokemons.txt
+  483  grep dragalge pokemons.txt
+  484  grep draga pokemons.txt
+  485  grep drag pokemons.txt
+  486  grep char pokemons.txt
+  487  grep meta pokemons.txt
+  488  grep me pokemons.txt
+  489  grep Char pokemons.txt
+  490  grep pikachi pokemons.txt
+  491  grep pikachu pokemons.txt
+  492  grep chu pokemons.txt
+  493  grep pikachu pokemons.txt
+  494  cat pokemons.txt grep chu
+  495  cat pokemons.txt grep chu
+  496  cat pokemons.txt /grep chu
+  497  cat pokemons.txt ./grep chu
+  498  grep Pikachu pokemons.txt
+  499  cat pokemons.txt .| grep chu
+  500  history
+  501  cat inicio
+  502  cat PASTA
+  503  cat dica1
+  504  head -n 20 pessoas
+  505  cat dica2
+  506  cat dica3
+  507  cat dica4
+  508  cat dica5
+  509  cat dica6
+  510  cat dica7
+  511  cat dica8
+  512  cd misterio
+  513  cd associacoes
+  514  cat AAA
+  515  cd
+  516  cd desktop
+  517  cd clmystery-pt-BR
+  518  cd misterio
+  519  cd entrevista
+  520  cd entrevistas
+  521  ls
+  522  cd misterio
+  523  cd
+  524  cd desktop
+  525  cd misterio
+  526  cd clmystery-pt-BR
+  527  cd misterio
+  528  cat automoveis
+  529  head -n 20 pessoas
+  530  cat pessoas
+  531  head -n 20 automoveis
+  532  head -n 20 cena-do-crime
+  533  cat cena-do-crime
+  534  grep PISTA
+  535  grep PISTA cena-do-crime
+  536  cd entrevistas
+  537  grep Annabel entrevistas
+  538  cd ..
+  539  grep Annabel pessoas
+  540  cd entrevistas
+  541  grep Annabel entrevistas
+  542  head -n 20 entrevistas
+  543  cat entrevistas
+  544  cd ..
+  545  cat entrevistas
+  546  ls entrevistas
+  547  cat entrevista-000296
+  548  cat entrevista-000296
+  549  head -n 20 entrevistas
+  550  cd entrevistas
+  551  head -n 20 entrevistas
+  552  head -n 20 entrevista-000296
+  553  cat entrevista-000296
+  554  cd ..
+  555  cd ruas
+  556  cat Rua_Mattapan
+  557  cd ..
+  558  cd entrevistas
+  559  cat entrevista-9437737
+  560  ls entrevistas
+  561  ls
+  562  cd ..
+  563  grep L337 automoveis
+  564  grep honda automoveis
+  565  grep "Honda" automoveis
+  566  grep -A 5 "L337" automoveis
+  567  cd associacoes
+  568  cat clube_de_Campo Academia_Fitness Costco | grep "Jonh Smith"
+  569  cat clube_de_Campo | grep "Jonh Smith"
+  570  cat clube_de_Campo Academia_Fitness Costco | grep -c 'Jonh Smith'
+  571  cat clube_de_Campo Academia_Fitness Costco | grep -c 'Jeremy'
+  572  cat AAA | grep -c 'Jeremy'
+  573  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep -c 'Jeremy'
+  574  cat AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep -c 'Jeremy'
+  575  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep 'Jeremy'
+  576  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep "Jeremy"
+  577  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep 'Jeremy'
+  578  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep Jeremy
+  579  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade | grep Jeremy
+  580  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade | grep 'Jeremy'
+  581  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade | grep "Jeremy"
+  582  cd ..
+  583  grep PISTA cena-do-crime
+  584  cd associacoes
+  585  grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep -c 'Jeremy'
+  586* grep AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade | grep 'Jeremy'
+  587  cat AAA Delta_SkyMiles Museu_da_História_do_Bash Biblioteca_da_Cidade  | grep 'Jeremy' -A 3 -B 3
+  588  history
+
+Conclusão o suspeito é o Jeremy Bowers
